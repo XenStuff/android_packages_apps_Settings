@@ -224,6 +224,9 @@
     <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
 
     <!-- Summary for list to control apps that ignore battery saving restrictions -->
-    <string name="high_power_apps_summary">Battery optimization availability</string
+    <string name="high_power_apps_summary">Battery optimization availability</string>
 
+    <!-- Idle Manager -->
+    <string name="idle_manager_title">Kill background processes</string>
+    <string name="idle_manager_summary">Stop all non-essential background processes when the device is idle</string>
 </resources>
