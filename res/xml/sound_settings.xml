@@ -185,7 +185,7 @@
         android:title="@string/screen_locking_sounds_title"
         android:order="-45"/>
 
-    <SwitchPreferenceCompat
+    <com.lineage.support.preferences.SystemSettingSwitchPreference
         android:key="screenshot_shutter_sound"
         android:title="Screenshot sound"
         android:defaultValue="true"

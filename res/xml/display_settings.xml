@@ -105,7 +105,7 @@
             android:key="density"
             android:title="@string/developer_smallest_width" />
 
-        <SwitchPreferenceCompat
+        <com.lineage.support.preferences.SystemSettingSwitchPreference
             android:key="data_disabled_icon"
             android:title="@string/data_disabled_icon_title"
             android:summary="@string/data_disabled_icon_summary"
